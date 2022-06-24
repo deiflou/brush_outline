@@ -1,0 +1,8 @@
+ <!DOCTYPE RCC>
+ <RCC version="1.0">
+ <qresource>
+     <file>brush_mask.png</file>
+     <file>brush_mask_2.png</file>
+     <file>brush_mask_3.png</file>
+ </qresource>
+ </RCC>
